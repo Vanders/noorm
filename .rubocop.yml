@@ -1,0 +1,10 @@
+AllCops:
+  Exclude:
+    - '*.gemspec'
+
+Style/RedundantReturn:
+  Enabled: false
+Style/MethodLength:
+  Enabled: false
+Style/CyclomaticComplexity:
+  Enabled: false
