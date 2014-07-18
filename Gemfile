@@ -8,4 +8,6 @@ group :development, :test do
   gem 'rspec'
   gem 'rubocop'
   gem 'simplecov'
+  gem 'thor'
+  gem 'thor-scmversion'
 end
